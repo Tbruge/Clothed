@@ -1,0 +1,50 @@
+.header-img {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 35px;
+}
+
+.header1-img {
+    width: 100px; /* You can set the dimensions to whatever you want */
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 7%;
+}
+
+.btn-custom3{
+    background-color: #FFA500;
+    border-color: #c5850e;
+    width: 100px;
+    color: #fff;
+    border-radius: 20px;
+    position:absolute;
+    top:0;
+    left: 0;
+    margin: 10px ;
+  }
+
+  .btn-custom4{
+    background-color:rgb(205, 82, 21);
+    border-color: #c5850e;
+    width: 12%;
+    color: #fff;
+    border-radius: 10px;
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px ;
+  }
+
+  /* permet d'ajuster la taille sur un petit écran  */
+  @media (max-width: 1320px) {
+    .btn-custom4 {
+        width: 34%;
+    }
+}
+
+  .custom_button {
+    float: right;
+    margin-top: 2%;
+  }
+

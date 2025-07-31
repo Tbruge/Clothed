@@ -1,0 +1,38 @@
+html{
+    font-size: 22px
+}
+
+
+body {
+    background-color: #a9a3a3;
+    color:beige;
+    color:blue;
+}
+
+p, h1{ 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: royalblue;
+    background-color: aqua;
+    background-image: url("chat.png");
+}
+
+.ma-class {
+    color:black; 
+    font-size: 3em;
+
+}
+
+.ma-class2 {
+    color:rgb(12, 57, 42);
+    font-size: 60px;
+}
+
+.ma-class3 {
+    color:rgb(78, 17, 136);
+    font-size: 70px;
+}
+
+.aj{
+    color: blue;
+    background-color: blue;
+}

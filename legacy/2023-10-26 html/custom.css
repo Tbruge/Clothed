@@ -1,0 +1,26 @@
+.sidebarcontent{
+    margin-bottom:10px;
+    min-height: 150px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+.maincontains{
+    margin-bottom:10px;
+    min-height: 310px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+/* .container{
+    margin-bottom:3px;
+    min-height: 30px;
+}
+ */
+
+ .fixed-image{
+    width: 100%;
+    height: auto;
+ }
